@@ -1,0 +1,5 @@
+base_compartment_ocid = "ocid1.compartment.oc1..***"
+client_name           = "contoso"
+vcn_name              = "contoso"
+vcn_dns_label         = "contoso"
+vcn_cidr_block        = "10.100.0.0/16"

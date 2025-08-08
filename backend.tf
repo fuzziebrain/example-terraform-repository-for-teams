@@ -2,7 +2,7 @@ terraform {
   backend "oci" {
     # Required
     bucket    = "tfstate-team"
-    namespace = "ax3q1y7cvk2q"
+    namespace = "***"
     region    = "us-phoenix-1"
 
     # Optional
